@@ -1,0 +1,6 @@
+__pycache__/
+*.py[cod]
+.venv/
+.insightsql_history.db
+.insightsql_history.db-shm
+.insightsql_history.db-wal
